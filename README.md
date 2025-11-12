@@ -53,3 +53,60 @@ Watch the **live walkthrough** of the dashboard:
 ---
 
 ## 📂 **Repository Contents**
+
+
+---
+
+## 🚀 **How to Use**
+
+1. **Download** the `.pbix` file
+2. Open in **Power BI Desktop** (Free download: [powerbi.microsoft.com](https://powerbi.microsoft.com/desktop/))
+3. Explore **interactively** – click cities, filter brands, drill into months!
+4. Publish to **Power BI Service** for sharing (requires Pro license for collaboration)
+
+---
+
+## 🛠 **Built With**
+
+- **Microsoft Power BI Desktop**
+- **DAX** for calculated measures
+- **Power Query** for data transformation
+- **OpenStreetMap** integration for India map
+
+---
+
+## 🙏 **Credits & Learning**
+
+This dashboard was created as part of the **Power BI Masterclass** by:
+
+> **Satish Dhawale** – Founder, [Skill Course](https://skillcourse.in)  
+> *Transforming beginners into data storytellers!*
+
+Special thanks for teaching:
+- Advanced DAX
+- Dynamic visualizations
+- Real-world dashboard design
+
+---
+
+## 📈 **Future Enhancements**
+
+- [ ] AI-powered **sales forecasting** using Power BI visuals
+- [ ] **What-If parameters** for pricing simulations
+- [ ] Integration with **live API data**
+- [ ] Mobile-optimized layout for Power BI app
+
+---
+
+## 🤝 **Connect & Contribute**
+
+⭐ **Star this repo** if you found it helpful!  
+💬 **Open an issue** for suggestions  
+📩 **Reach out** for collaboration or Power BI mentoring
+
+---
+
+**Made with 💙 and Data**  
+*Your Name* | [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+
+---
