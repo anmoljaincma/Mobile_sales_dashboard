@@ -1,6 +1,6 @@
 # Mobile Sales Dashboard - Power BI 📊
 
-![Dashboard Preview](Screenshot 2025-11-12 175524.png)
+[!Dashboard Preview](Screenshot 2025-11-12 175524.png)
 
 A **fully interactive Mobile Sales Dashboard** built in **Microsoft Power BI**, visualizing sales performance, regional trends, brand comparison, payment methods, and customer behavior across India.
 
