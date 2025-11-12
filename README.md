@@ -47,8 +47,7 @@ This Power BI dashboard provides **actionable insights** into mobile phone sales
 
 Watch the **live walkthrough** of the dashboard:
 
-[![Watch Demo Video](https://img.shields.io/badge/📹_Watch_Interactive_Demo-FF0000?style=for-the-badge&logo=youtube)](https://your-video-link-here.com)  
-*(Replace the link above with your actual video URL after upload)*
+[![Watch Demo Video](https://img.shields.io/badge/📹_Watch_Interactive_Demo-FF0000?style=for-the-badge&logo=youtube)](https://youtu.be/wzwxm-70P10)  
 
 ---
 
