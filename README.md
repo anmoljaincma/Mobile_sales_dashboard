@@ -54,7 +54,7 @@ Watch the **live walkthrough** of the dashboard:
 
 | File | Description | Download Link |
 |------|-------------|---------------|
-| **Power BI File** | `.pbix` – Fully interactive dashboard | [![Download PBIX](https://img.shields.io/badge/📄_Download_PBIX-0078D4?style=for-the-badge&logo=microsoft)](PowerBI_Tutorial_Project.pbit) |
+| **Power BI File** | `.pbix` – Fully interactive dashboard | [![Download PBIX](https://img.shields.io/badge/📄_Download_PBIX-0078D4?style=for-the-badge&logo=microsoft)](Power_BI_Tutorial_Project.pbit) |
 | **Raw Data** | `.xlsx` – Original Excel dataset | [![Download Excel](https://img.shields.io/badge/📊_Download_Excel-217346?style=for-the-badge&logo=microsoft-excel)](Mobile_Sales_Data.xlsx) |
 
 ## 📂 **Repository Contents**
