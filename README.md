@@ -106,6 +106,6 @@ Special thanks for teaching:
 ---
 
 **Made with 💙 and Data**  
-*Your Name* | [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+*Anmol Jain* | [LinkedIn](https://www.linkedin.com/in/anmol-jain-cma/) | [GitHub](https://github.com/anmoljaincma)
 
 ---
